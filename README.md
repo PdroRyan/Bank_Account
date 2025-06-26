@@ -1,4 +1,4 @@
-# 💰 Sistema Bancário em Java
+# Sistema Bancário em Java
 
 Este projeto é um sistema bancário simples desenvolvido em Java. Ele permite criar contas, realizar depósitos, saques e visualizar o saldo. O sistema é operado via terminal (console) com um menu interativo.
 
@@ -11,7 +11,7 @@ src/
 └── Bank.java
 
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Criar contas bancárias com nome do cliente.
 - Realizar depósitos.
@@ -19,7 +19,7 @@ src/
 - Exibir lista de todas as contas criadas.
 - Exibir o total geral dos saldos de todas as contas.
 
-## 🧠 Como funciona
+## Como funciona
 
 O programa é executado via terminal e oferece menus interativos para criar contas e operar nelas. Ele está dividido em duas partes principais:
 
